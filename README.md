@@ -1,6 +1,6 @@
 # Stereo Labs ZED on Arch Linux
 
-![ZED](docs/depth.png)
+![ZED](pics/depth.png)
 
 
 ## Using docker
