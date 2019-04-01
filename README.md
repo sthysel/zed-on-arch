@@ -1,5 +1,8 @@
 # Stereo Labs ZED on Arch Linux
 
+![ZED](docs/pics/depth.png)
+
+
 ## Using docker
 
 See [ZED Docker](https://github.com/stereolabs/zed-docker)
